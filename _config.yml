@@ -3,8 +3,8 @@ title: Personal Portfolio
 subtitle: by Taylor Williams
 email: taylornwilliams77@gmail.com
 description: I am a computer science major at Northern Illinois University. I am very passionate about all things tech. However, I have a specific career focus on cybersecurity. This portfolio consists of my best skills, projects, and achievements.
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog
-url: Taylor_Williams.com
+baseurl: "/forty-jekyll-theme"
+url: "https://github.io"
 author: Taylor Williams
 street_address: 1234 Somewhere Road
 city: Oswego
