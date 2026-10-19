@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
+title: Personal Portfolio
+subtitle: by Taylor Williams
+email: taylornwilliams77@gmail.com
+description: I am a computer science major at Northern Illinois University. I am very passionate about all things tech. However, I have a specific career focus on cybersecurity. This portfolio consists of my best skills, projects, and achievements.
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+url: Taylor_Williams.com
+author: Taylor Williams
 street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+city: Oswego
+state: IL
+zip_code: 60543
 country: United States of America
-phone: (716) 555-5555
+phone: (331)216-9058 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -20,14 +20,14 @@ tiles-count: 6
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
 # Icons are not shown if value is empty
-# You need to restart jekyll for changes to have an effect
+# You need to restart Jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: 
   GitLab:
   Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn: 
+  Twitter: 
   Facebook:
   Slack:
 
