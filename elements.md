@@ -21,7 +21,7 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Python</h3>
-		<p>Python was the first programming language I learned. In high school, I took Computer Programming 1 and 2, as well as AP Computer Science. In these courses, I coded with Python, and the complexity of the material increased with each course.</p></p>
+		<p>Python was the first programming language I learned. In high school, I took Computer Programming 1 and 2, as well as AP Computer Science. In these courses, I coded with Python, and the complexity of the material increased with each course.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>C++</h3>
