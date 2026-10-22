@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Languages
+description: All languages I have experience with
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
