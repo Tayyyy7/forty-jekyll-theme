@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Cybersecurity Skills
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: All cybersecurity-related skills
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
